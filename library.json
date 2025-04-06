@@ -12,9 +12,9 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/khoih-prog/ESPAsync_WiFiManager"
+    "url": "https://github.com/bebhav/ESPAsync_WiFiManager"
   },
-  "homepage": "https://github.com/khoih-prog/ESPAsync_WiFiManager",
+  "homepage": "https://github.com/bebhav/ESPAsync_WiFiManager",
   "export": {
     "exclude": [
       "linux",
@@ -25,7 +25,7 @@
   "dependencies": [
     {
       "name": "AsyncTCP",
-      "version": "https://github.com/me-no-dev/AsyncTCP",
+      "version": "https://github.com/ESP32Async/AsyncTCP",
       "platforms": [ "espressif32"]
     },
     {
